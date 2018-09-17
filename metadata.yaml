@@ -1,5 +1,5 @@
 _repo: Uther-and-Igraine_52139
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Benda, Wladyslaw T. (Wladyslaw Theodore)
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '36188'
     url: http://www.gutenberg.org/2009/agents/36188
     wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+covers:
+- cover_type: archival
+  image_path: 52139-h/images/cover.jpg
 creator:
   author:
     agent_name: Deeping, Warwick
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '41615'
     url: http://www.gutenberg.org/2009/agents/41615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52139#Uther-and-Igraine
 gutenberg_issued: '2016-05-23'
 gutenberg_type: Text
 identifiers:
